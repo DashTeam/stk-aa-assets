@@ -1,0 +1,1 @@
+# stk-aa-assets
