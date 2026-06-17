@@ -1,1 +1,1 @@
-# stk-aa-assets
+# SuperTuxKart Advanced Accessibility modified assets repo
